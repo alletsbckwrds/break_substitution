@@ -8,4 +8,5 @@ Inside the program itself i wrote two sets of most used letters, and commented o
 <br/>
 Unfortunately the inside of the program is mostly written in italian since it was a school project. But i might translate it in the future.
 # Example results
+![example](/test.png)
 ![results](/test_results.png)
